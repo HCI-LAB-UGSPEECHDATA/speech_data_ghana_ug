@@ -22,6 +22,9 @@ authors:
   - family-names: Winful
     given-names:  Fiifi Baffoe Payin
     orcid: "https://orcid.org/0009-0004-0594-3662"
+  - family-names: Solaga
+    given-names:  Kafui Kwashie
+    orcid: "https://orcid.org/0009-0003-4810-9355"
 title: "UGSPEECHDATA"
 version: 1.0.0
 identifiers:
