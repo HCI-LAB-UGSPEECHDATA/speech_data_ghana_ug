@@ -1,5 +1,5 @@
 # UGSpeechData - Audio speech dataset of 5 Ghanaian languages - Akan, Ewe, Dagbani, Dagaare, and Ikposo
-The dataset comprises of 500 hours transcribed speech corpus in Akan, Ewe, Dagbani, Daagare, and Ikposo. Each language includes 100 hours of transcribed audio speech from indigenous speakers of the language. 
+The dataset comprises of 500 hours transcribed speech corpus in Akan, Ewe, Dagbani, Dagaare, and Ikposo. Each language includes 100 hours of transcribed audio speech from indigenous speakers of the language. 
 
 
 # Link(s) to Data Assets 
