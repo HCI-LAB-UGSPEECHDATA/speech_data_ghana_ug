@@ -29,7 +29,7 @@ title: "UGSPEECHDATA"
 version: 1.0.0
 identifiers:
   - type: doi
-    value: ""
+    value: "https://doi.org/10.57760/sciencedb.22298"
 date-released: 2023-03-01
 repository-code: "https://github.com/isaacwiafe/speech_data_ug"
 keywords: 
