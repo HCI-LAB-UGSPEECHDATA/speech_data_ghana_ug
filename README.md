@@ -7,7 +7,7 @@ The dataset comprises of 100 hours transcribed speech corpus in Akan, Ewe, Dagba
 
 <!---* [Images](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) --->
 
-*   [Local Audios + AUDIO ID.csv](https://www.dropbox.com/scl/fo/e9bha9glyvk2mu5fo7f3h/h?rlkey=kzm1mnx8bj6qgicpaxojz1npa&dl=0)
+*   [Local Audios + AUDIO ID.csv](https://doi.org/10.57760/sciencedb.22298)
 
   <!---  [Transcriptions](https://www.dropbox.com/scl/fo/qouaom0adtkaux7u7c5gr/h?rlkey=8vy27eb2u9dhrsrh7bzbtq6zc&dl=0) --->
 
