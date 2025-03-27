@@ -106,6 +106,10 @@ The dataset comprises of 500 hours transcribed speech corpus in Akan, Ewe, Dagba
   </tbody>
 </table>
 
+# Licensce
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International **(CC BY-NC-ND 4.0)** license.
+
+
 
 
 # CITATION
