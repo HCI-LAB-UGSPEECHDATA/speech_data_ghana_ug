@@ -1,9 +1,23 @@
-# Liscence
+# Table of Contents
+
+1. [License](#license)
+2. [Using Creative Commons Public Licenses](#using-creative-commons-public-licenses)
+3. [Section 1 – Definitions](#section-1--definitions)
+4. [Scope](#section-2--scope)
+5. [License Conditions](#section-3--license-conditions)
+6. [Sui Generis Database Rights](#section-4--sui-generis-database-rights)
+7. [Disclaimer of Warranties and Limitation of Liability](#section-5--disclaimer-of-warranties-and-limitation-of-liability)
+8. [Term and Termination](#section-6--term-and-termination)
+9. [Other Terms and Conditions](#section-7--other-terms-and-conditions)
+10. [Interpretation](#section-8--interpretation)
+
+# Licensce
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International **(CC BY-NC-ND 4.0)** license.
 <div align="justify">
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 </div>
 
+#using-creative-commons-public-licenses
 ## Using Creative Commons Public Licenses
 <div align="justify">
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
@@ -21,8 +35,7 @@ Creative Commons public licenses provide a standard set of terms and conditions 
 <div align="justify">By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 </div>
 
-
-### Section 1 – Definitions.
+### Section 1 – Definitions
 **Adapted Material** 
 > <div align="justify"> Material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image. <br> Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 </div>
